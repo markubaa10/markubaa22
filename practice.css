@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(red, green, blue);
+    background-color: darkorange;
+    border: 10px solid transparent;
+    border-image:url(me.png) ;
+    
+
+
+}
+
+.h1{
+    color: rgb(240, 242, 255);
+    align-items: center;
+
+}
+
+.links ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.links{
+    color: darkgreen;
+    background-color: black;
+    list-style: none;
+    padding-bottom: 25px;
+    font-size: 25px;
+    
+}
+li .links{
+    text-decoration: none;
+    display: flex;
+}
+
+a.{
+    color: #add;
+    text-decoration: navy;
+    
+}
+
+
+
+
+
+
+.links ul li a{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    background-color: beige;
+}
+
+#borderingimge{
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: (me.png) 30% round;
+
+}
+
+
+.testi.img{
+    border: 1px soid #add;
+    border-radius: 5px;
+    padding: 5px;
+    width: 150px;
+}
+
+ul a{
+    list-style-type: none;
+}
+
+.testi{
+    display: flex;
+    padding: 60px;
+}
+
+.people{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    background-color: yellowgreen;
+    align-items: center;
+   
+
+}
+.people image{
+   border-radius: 50%; 
+}
+
+
+.people ul{
+    padding: 15px;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+
+}
+
+.a{
+    list-style: none;
+}
+
+.members{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    list-style: none;
+    padding-bottom: 25px;
+    font-size: 25px;
+    
+}
+
+.list .members{
+    text-decoration: none;
+}
+
+
